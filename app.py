@@ -1,4 +1,7 @@
-"""Simple flask app to display dynamic threejs generated from pyvista.
+"""
+Author: akaszynski, 2021, https://github.com/pyvista/pyvista/issues/1195. 
+Modified by: Egnatis, N. and Z. Husain, 2022  
+Simple flask app to display dynamic threejs generated from pyvista. 
 
 Expected paths:
 dynamic_ex/
